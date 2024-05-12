@@ -9,6 +9,8 @@
 
 # Communicate using Markdown
 
+## Oh and Edit using Markdown too!
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
